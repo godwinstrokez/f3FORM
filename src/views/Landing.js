@@ -44,6 +44,7 @@ const Landing = () => {
                 color="text-white"
                 background="bg-blue"
                 text="Try Forms for Work"
+                onClick={() => signIn()}
               />
               <OutLinedButton
                 color="text-blue"
