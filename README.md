@@ -1,10 +1,10 @@
-# Google Forms Clone
-This is an attempt of creating google forms clone using React.js and Firebase.
+# f3Forms
+This is an attempt of creating f3forms (a Google Forms-like clone) using React.js and Firebase.
 
 ## Getting Started
 ### 1. Clone the repository:
 To clone the repository, run the command
-<pre>git clone https://github.com/thezaeemaanwar/google-forms-clone</pre>
+<pre>git clone https://github.com/godwinstrokez/f3Form</pre>
 
 ### 2. Install the dependencies:
 To install the dependencies, run

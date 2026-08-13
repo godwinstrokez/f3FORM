@@ -33,7 +33,7 @@ const Landing = () => {
               className="text-4xl md:text-6xl m-1 text-black"
               style={{ lineHeight: "72px" }}
             >
-              Get insights quickly, with Google Forms
+              Get insights quickly, with f3 Forms
             </div>
             <div className="text-xl py-4 m-2">
               Easily create and share online forms and surveys, and analyze
@@ -56,7 +56,7 @@ const Landing = () => {
             <img
               className="rounded-lg shadow-xl w-full"
               src={bg}
-              alt="Google Forms"
+              alt="f3 Forms"
             />
           </div>
         </div>
